@@ -1,2 +1,1 @@
 gradio==5.7.1
-py -3.13 -m pip install gradio
